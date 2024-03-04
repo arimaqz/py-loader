@@ -1,5 +1,5 @@
-# reflective-py-loader
-`reflective-py-loader` encrypts and when executing, decrypts the encrypted file and reflectively loads it into memory for evasion.
+# py-loader
+`py-loader` encrypts and when executing, decrypts the encrypted file and loads it into memory for evasion.
 
 Usage:
 ```
